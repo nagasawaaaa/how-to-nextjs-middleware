@@ -2,6 +2,10 @@
 
 `/secret` 配下のページはBasic認証が通っていないと見られないようにしてみた。
 
+## 参考
+
+- [Nextjs 13 App routerでBasic認証かける方法](https://zenn.dev/ksyunnnn/articles/3aae5870e6a1fe)
+
 ## Install
 
 ```bash
